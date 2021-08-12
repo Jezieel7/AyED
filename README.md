@@ -8,3 +8,5 @@ nota 2: Contiene EJERCICIOS PRÁCTICOS, sin embargo, estan subidas todas las con
 Nota 3: No todos los ejercicios están correctamente depurados por eso es importante compilar y ejecutar los archivos antes de utilizarlos.
 
 Nota 4: POR FAVOR, en caso de corregir algún ejercicio, pasar el código para que pueda verlo y corregirlo en el repositorio, para que al final, queden todos los ejercicios correctamente desarrollados.
+
+Nota 5: La práctica 5 era de tiempos de ejecución y notacion bigOh, por lo tanto no había que desarrollar código.
